@@ -21,6 +21,7 @@ layout: default
 
 # AVVISI
 
+- *[05 Apr 2024]* Al seguente [link](https://drive.google.com/file/d/1r5lsvX8wlDzcC8qFmKG2fgJQjUPMadPT/view?usp=sharing) sono disponibili i risultati della prova del 20/03/2024. 
 - *[12 Mar 2024]* Al seguente [link](https://drive.google.com/file/d/1OhGAhpWahXT8aH3983dH7ohFQrD-2icb/view?usp=sharing) sono disponibili i risultati della prova del 19/02/2024. 
 - *[13 Feb 2024]* Al seguente [link](https://drive.google.com/file/d/1StJdES9zXZYAfUavCk4HhlqexqM64DkV/view?usp=sharing) sono disponibili i risultati della prova del 29/01/2024. 
 - *[08 Gen 2024]* Al seguente [link](https://drive.google.com/file/d/14XDf1dFMzfGNVS6B2uxRpRVSjs1drqkP/view?usp=sharing) sono disponibili i risultati della prova in itinere del 22/12/2023. Gli studenti che non hanno superato la prova e o che intendano rifare l'esame, possono presentarsi (prenotazione su STUDIUM, non sul GOMPP) all'appello di giorno 29/01/2024. La visione dei compiti sarà possibile giorno 15/01/2024 dalle ore 10.00 alle ore 12.00 previa prenotazione via email.
