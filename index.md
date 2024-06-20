@@ -21,6 +21,7 @@ layout: default
 
 # AVVISI
 
+- *[16 Giu 2024]* L'esame di giorno 21/06/2024 si terrà presso l'aula magna del polo tecnologico alle ore 10.00. 
 - *[05 Apr 2024]* Al seguente [link](https://drive.google.com/file/d/1r5lsvX8wlDzcC8qFmKG2fgJQjUPMadPT/view?usp=sharing) sono disponibili i risultati della prova del 20/03/2024. 
 - *[12 Mar 2024]* Al seguente [link](https://drive.google.com/file/d/1OhGAhpWahXT8aH3983dH7ohFQrD-2icb/view?usp=sharing) sono disponibili i risultati della prova del 19/02/2024. 
 - *[13 Feb 2024]* Al seguente [link](https://drive.google.com/file/d/1StJdES9zXZYAfUavCk4HhlqexqM64DkV/view?usp=sharing) sono disponibili i risultati della prova del 29/01/2024. 
