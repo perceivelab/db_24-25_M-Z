@@ -7,6 +7,8 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 
 | Lezioni    | Argomento                                                       | Data            | Slides                          | Codice/Altro      |
 |------------|-----------------------------------------------------------------|-----------------|-------------------------------  |-------------|
+
+<!-- 
 | Introduzione  | Introduzione Corso                    | 02 Ottobre 2023   | [Introduzione](https://drive.google.com/file/d/1KtSaHITI6GnDuYwRCe-DF-SoIapIVNci/view?usp=sharing)              |             |
 | Lezione 1  | Modello relazionale                      | 02 Ottobre 2023  | [Modello Relazionale](https://drive.google.com/file/d/15EaCh1d7VxnKTfylcErryjHwbERGk1Qo/view?usp=sharing)        |             |
 | Lezione 2  | Algebra relazionale                      | 04 Ottobre 2023   | [Algebra Relazionale](https://drive.google.com/file/d/1A-qmts9eQMoQPqdN6f6_j1QWPLIntvNc/view?usp=sharing)       |      [Link](https://drive.google.com/file/d/1xhLANQBfE-IPZenv5l__r-LpDB_vGVbi/view?usp=sharing)  |
@@ -29,6 +31,8 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 18 | Simulazione prova di progettazione | 04 Dicembre 2023 | | [Testo](https://drive.google.com/file/d/1iI1n25r_GHPQzqKUQZtNYZrnV0JdoB15/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1K2atC5VFIMhi1tcf00qUGrVIDGg01ota/view?usp=sharing) | 
 | Lezione 19 | Esecitazione progettazione logica  | 06 Dicembre 2023 | | [Testo](https://drive.google.com/file/d/1FxgOPBFh3eEDcDCXQEH9osvpgX-Ur4yd/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1ZusA9Ez7uIxkHEeSF-W_6OApwEnNth1c/view?usp=sharing) | 
 | Lezione 20 | Esecitazione finale SQL            | 13 Dicembre 2023 | | [Testo](https://drive.google.com/file/d/1lpLrrkaoQsGvxYY3WqWPZBjMwrovMOhX/view?usp=sharing), [Dati](https://drive.google.com/file/d/1dC_TwLnKpnBetiTC6StZD031chHjwUH1/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1mXuyo69WavNkJN2LiIrwZ3RuzKrXX-zY/view?usp=sharing) | 
+
+-->
 
 [404]: /web-programming-course/fallback
 
