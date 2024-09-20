@@ -15,7 +15,7 @@ layout: default
 
 | **Ricevimento**: [Concordare via mail](#staff)      |
 | :----------:   |
-| Lunedì 17-19  | 
+| Mercoledì 17-18  | 
 
 
 
