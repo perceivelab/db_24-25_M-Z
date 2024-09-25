@@ -67,7 +67,7 @@ Per la gestione della logistica degli esami e dei laboratori è necessario regis
 La roadmap e' provvisoria e puo' subire variazioni.
 
 | Lezione    | Argomento          | Data    |
-| :-------:| ------------------ | ---------------|
+| -----------| ------------------ | --------|
 | 0     | Introduzione al corso       | 02 Ottobre 2024  |
 | 1     | Modello relazionale         | 02 Ottobre 2024  |
 | 2     | Algebra relazionale         | 03 Ottobre 2024   |
@@ -89,7 +89,7 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 18    | Esercitazione complessiva SQL + progettazione | 27 Novembre 2024   |
 | 19    | Esercitazione complessiva SQL + progettazione | 02 Dicembre 2024  |
 | 20    | Prova in itinere    | 19 Dicembre 2024  | 
--->
+
 
 
 # PROVA FINALE 
