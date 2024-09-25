@@ -3,16 +3,16 @@ layout: page
 ---
 
 # LEZIONI
-Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del corso di web programming 2023.
+Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del corso di Database 2024.
 
-| Lezioni    | Argomento                                                       | Data            | Slides                          | Codice/Altro      |
+| Lezioni    | Argomento                                                       | Data            | Slides                         | Codice/Altro|
 |------------|-----------------------------------------------------------------|-----------------|------------------------------- |-------------|
-| Introduzione  | Introduzione Corso                    | 02 Ottobre 2024   | [Introduzione]()              |             |
-| Lezione 1  | Modello relazionale                      | 02 Ottobre 2024  | [Modello Relazionale]()        |             |
-| Lezione 2  | Algebra relazionale                      | 03 Ottobre 2024   | [Algebra Relazionale]()       |             |
+| Introduzione  | Introduzione Corso                                           | 02 Ottobre 2024 | [Introduzione]()               |             |
+| Lezione 1  | Modello relazionale                                             | 02 Ottobre 2024 | [Modello Relazionale]()        |             |
+| Lezione 2  | Algebra relazionale                                             | 03 Ottobre 2024 | [Algebra Relazionale]()        |             |
 
-<!--
-| Lezione 3  | Esercitazione Algebra relazionale                      | 09 Ottobre 2023   |    |      [Link](https://drive.google.com/file/d/1jGRLpZON_ydNYmKO80tpAFVwFnf0xMPU/view?usp=drive_link)  |
+
+<!--| Lezione 3  | Esercitazione Algebra relazionale                      | 09 Ottobre 2023   |    |      [Link](https://drive.google.com/file/d/1jGRLpZON_ydNYmKO80tpAFVwFnf0xMPU/view?usp=drive_link)  |
 | Lezione 4  | SQL: Concetti di base                    | 11 Ottobre 2023   | [Concetti base](https://drive.google.com/file/d/1fG6gzViO1lCwVUnOTlMy4aAFP1ebPNXA/view?usp=sharing)                        |             |
 | Lezione 5  | Esercitazione MySQL                    | 16 Ottobre 2023   | [MySQL](https://drive.google.com/file/d/1Pqm2TqSfBQXboEPyh3y2eGgEH5mt-PA7/view?usp=share_link)                        |   [Testo e Dati](https://drive.google.com/file/d/1i7J1amDr4M01sJzI3dO-i5pdI1dERq1H/view?usp=share_link)          |
 | Lezione 6  | SQL: Operatori aggregati                   | 18 Ottobre 2023   | [Operatori aggregati](https://drive.google.com/file/d/1A4mCEehIwVzy1upPbaMFVsH7opPb6-3o/view?usp=sharing)                        |             |
