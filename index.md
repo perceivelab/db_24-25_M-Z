@@ -71,14 +71,13 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 0     | Introduzione al corso       | 02 Ottobre 2024  |
 | 1     | Modello relazionale         | 02 Ottobre 2024  |
 | 2     | Algebra relazionale         | 03 Ottobre 2024   |
-<!--
-| 3     | Esercitazione algebra relazionale         | 09 Ottobre 2023  |
-| 4     | SQL: Concetti base   | 11 Ottobre 2023   |
-| 5     | Esercitazione Base + MySQL         | 16 Ottobre 2023  |
-| 6     | SQL Avanzato| 18 Ottobre 2023   |
-| 7     | Esercitazione SQL: Operatori Aggregati   | 23 Ottobre 2023   |
-| 8     | SQL: Stored procedure e Trigger     | 25 Ottobre 2023  |
-| 9     | Esercitazione SQL: Progedure e Trigger        | 30 Ottobre 2023  |
+| 3     | Esercitazione algebra relazionale         | 07 Ottobre 2024  |
+| 4     | SQL: Concetti base + MySQL  | 9 Ottobre 2024   |
+| 5     | Esercitazione Base          | 14 Ottobre 2024  |
+| 6     | SQL Avanzato                | 17 Ottobre 2024   |
+| 7     | Esercitazione SQL: Op. Aggregati + SQL: Stored procedure e Trigger    | 21 Ottobre 2024   |
+| 8     | Esercitazione SQL: Progedure e Trigger     | 23 Ottobre 2024  |
+| 9     |         | 30 Ottobre 2023  |
 | 10    | Esercitazione complessiva SQL   | 06 Novembre 2023   |
 | 11    | Esercitazione complessiva SQL        | 08 Novembre 2023  |
 | 12    | Simulazione prova SQL        | 13 Novembre 2023  |
@@ -94,9 +93,10 @@ La roadmap e' provvisoria e puo' subire variazioni.
 
 
 # PROVA FINALE 
-L'esame consiste in due prove riguardanti::
+L'esame consiste in due prove riguardanti:
   1) Progettazione di una base di dati, a partire da un insieme di requisiti e dai dati di carico a regime.
   2) Implementazione in MySQL.
+
 Le prove vengono valutate in base alla capacità di analisi del problema e di giustificare le scelte progettuali, alla correttezza dello schema E/R proposto, alla correttezza e completezza dell'implementazione in SQL.
 
 L'esame del modulo si intende superato se si raggiunge la sufficienza su entrambe le parti.   
