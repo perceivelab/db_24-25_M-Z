@@ -15,13 +15,14 @@ layout: default
 
 | **Ricevimento**: [Concordare via mail](#staff)      |
 | :----------:   |
-| Mercoledì 17-18  | 
+| Prof. Federica Proietto Salanitri - Mercoledì 17-18  | 
 
 
 
 # AVVISI
 
-- *[02 Ott 2023]* Inizio ufficiale lezioni.
+- *[02 Ott 2024]* Inizio ufficiale lezioni.
+- *[25 Sett 2024]* Le lezioni del corso di DATABASE and WEB PROGRRAMMING mod. DATABASE (canale M-Z) inizieranno regolarmente MERCOLEDÌ 2 OTTOBRE secondo il calendario ufficiale. La seconda lezione, si terrà GIOVEDÌ 3 OTTOBRE dalle 15:00 alle 18:00 in Aula Magna del Polo Tecnologico, via Santa Sofia, 102.  
 
 <!--
 - *[16 Giu 2024]* L'esame di giorno 21/06/2024 si terrà presso l'aula magna del polo tecnologico alle ore 10.00. 
@@ -55,31 +56,22 @@ layout: default
 
 # FORUM STUDENTI
 {: #tag}
-Durante il corso si utilizzera':
-- il canale Discord come spazio per discutere di tutti gli aspetti tecnici. Gli studenti pertanto dovranno iscriversi al canale al seguente [link]().
-- il canale Teams per la consegna degli elaborati. Code: ffnboz6
+Durante il corso si utilizzera' il canale Teams per le comunicazioni e la consegna degli elaborati. Code: ffnboz6
 
 <!--
 # REGISTRAZIONE
 {: #tag}
 Per la gestione della logistica degli esami e dei laboratori è necessario registrarsi, entro il 15 Ottobre 2023, al corso tramite il seguente  [link](https://forms.gle/fchUuCLj5oRhawYk7). -->
 
-# VALUTAZIONE
-<!-- 
-- Studenti che non frequentano il corso devono sostenere una prova integrata nelle date indicate sotto, che consiste nella progettazione di una base di dati, a partire da un insieme di requisiti e dai dati di carico a regime, e la successiva implementazione in MySQL e noSQL
-
-<- Studenti che frequentano il corso, possono partecipare alle due prove in itinere: 1) Prova pratica SQL e NoSQL e 2) Prova di progettazione. -->
-
-
 # Lezioni 
 La roadmap e' provvisoria e puo' subire variazioni.
 
 | Lezione    | Argomento          | Data    |
 | :-------:| ------------------ | ---------------|
-
+| 0     | Introduzione al corso       | 02 Ottobre 2024  |
+| 1     | Modello relazionale         | 02 Ottobre 2024  |
+| 2     | Algebra relazionale         | 03 Ottobre 2024   |
 <!--
-| 1     | Modello relazionale         | 02 Ottobre 2023  |
-| 2     | Algebra relazionale   | 04 Ottobre 2023   |
 | 3     | Esercitazione algebra relazionale         | 09 Ottobre 2023  |
 | 4     | SQL: Concetti base   | 11 Ottobre 2023   |
 | 5     | Esercitazione Base + MySQL         | 16 Ottobre 2023  |
@@ -101,8 +93,20 @@ La roadmap e' provvisoria e puo' subire variazioni.
 -->
 
 
-# PROVE FINALE 
-TBD   
+# PROVA FINALE 
+L'esame consiste in due prove riguardanti::
+  1) Progettazione di una base di dati, a partire da un insieme di requisiti e dai dati di carico a regime.
+  2) Implementazione in MySQL.
+Le prove vengono valutate in base alla capacità di analisi del problema e di giustificare le scelte progettuali, alla correttezza dello schema E/R proposto, alla correttezza e completezza dell'implementazione in SQL.
+
+L'esame del modulo si intende superato se si raggiunge la sufficienza su entrambe le parti.   
+
+# VALUTAZIONE
+
+- Studenti che **non frequentano** il corso devono gli esami nelle date ufficiali degli appelli.
+- Studenti che **frequentano** il corso, possono partecipare alla prova in itinere che si terrà alla fine del modulo di DATABASE.
+
+Il voto complessivo sul modulo di database influirà al 50% sul voto totale del corso. 
 
 # DATE ESAME DATABASE
 Il calendario degli esami è disponibile al [link]()
