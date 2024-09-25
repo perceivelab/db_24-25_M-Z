@@ -77,18 +77,18 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 6     | SQL Avanzato                | 17 Ottobre 2024   |
 | 7     | Esercitazione SQL: Op. Aggregati + SQL: Stored procedure e Trigger    | 21 Ottobre 2024   |
 | 8     | Esercitazione SQL: Progedure e Trigger     | 23 Ottobre 2024  |
-| 9     |         | 30 Ottobre 2023  |
-| 10    | Esercitazione complessiva SQL   | 06 Novembre 2023   |
-| 11    | Esercitazione complessiva SQL        | 08 Novembre 2023  |
-| 12    | Simulazione prova SQL        | 13 Novembre 2023  |
-| 13    | Progettazione concettuale       | 15 Novembre 2023  |
-| 14    | Esempi progettazione concettuale      | 17 Novembre 2023  |
-| 15    | Progettazione logica   | 22 Novembre 2023   |
-| 16    | Esercitazione progettazione logica        | 27 Novembre 2023  |
-| 17    | Esercitazione progettazione logica II   | 29 Novembre 2023   |
-| 18    | Simulazione prova progettazione | 04 Dicembre 2023   |
-| 19    | Esercitazione progettazione | 06 Dicembre 2023  |
-| 20    | Esercitazione SQL    | 11 Dicembre 2023  | 
+| 9     | Esercitazione complessiva SQL   | 28 Ottobre 2024  |
+| 10    | Esercitazione complessiva SQL   | 30 Ottobre 2024   |
+| 11    | Progettazione concettuale       | 04 Novembre 2024  |
+| 12    | Esempi progettazione concettuale| 06 Novembre 2024  |
+| 13    | Progettazione logica            | 11 Novembre 2024  |
+| 14    | Esercitazione progettazione logica | 13 Novembre 2024  |
+| 15    | Esercitazione complessiva progettazione | 18 Novembre 2024  |
+| 16    | Esercitazione complessiva progettazione | 20 Novembre 2024  |
+| 17    | Esercitazione complessiva progettazione | 25 Novembre 2024  |
+| 18    | Esercitazione complessiva SQL + progettazione | 27 Novembre 2024   |
+| 19    | Esercitazione complessiva SQL + progettazione | 02 Dicembre 2024  |
+| 20    | Prova in itinere    | 19 Dicembre 2024  | 
 -->
 
 
