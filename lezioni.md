@@ -7,7 +7,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 
 | Lezioni    | Argomento                                                       | Data            | Slides                         | Codice/Altro|
 |------------|-----------------------------------------------------------------|-----------------|------------------------------- |-------------|
-| Introduzione  | Introduzione Corso                                           | 02 Ottobre 2024 | [Introduzione]()               |             |
+| Introduzione  | Introduzione Corso                                           | 02 Ottobre 2024 | <a href=https://tinyurl.com/introdb24 download>Introduzione</a>               |             |
 | Lezione 1  | Modello relazionale                                             | 02 Ottobre 2024 | [Modello Relazionale]()        |             |
 | Lezione 2  | Algebra relazionale                                             | 03 Ottobre 2024 | [Algebra Relazionale]()        |             |
 
