@@ -14,10 +14,10 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 3  | Esercitazione Algebra relazionale                      | 07 Ottobre 2023   |    |      [Esercizio 1]([https://tinyurl.com/lesson3es1db3](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/EdUxrIX2dBxFoSfBs5vBqQYBQNClo3EhIwGd8WtFzYItYA?e=rEjLZ2))\br[Esercizio 2]([https://tinyurl.com/lesson3es2db3](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/Edqs5wq_1KBHujvbGNABg9QBbqLikKxPKZWCMqMPlV4b9w?e=qldg1e))  |
 
 
-# | Lezione 4  | SQL: Concetti di base                    | 11 Ottobre 2023   | [Concetti base]() [MySQL]()                       |             |
-# | Lezione 5  | Esercitazione MySQL                    | 16 Ottobre 2023   | [MySQL]()                        |   [)          |
-# | Lezione 6  | SQL: Operatori aggregati                   | 18 Ottobre 2023   | [Operatori aggregati]()                        |             |
-# | Lezione 7  | Esercitazione operatori aggregati                    | 23 Ottobre 2023   | | [Testo e dati](), [Soluzione1]()                        |          |
+<!--- | Lezione 4  | SQL: Concetti di base                    | 11 Ottobre 2023   | [Concetti base]() [MySQL]()                       |             |
+| Lezione 5  | Esercitazione MySQL                    | 16 Ottobre 2023   | [MySQL]()                        |   [)          |
+| Lezione 6  | SQL: Operatori aggregati                   | 18 Ottobre 2023   | [Operatori aggregati]()                        |             |
+| Lezione 7  | Esercitazione operatori aggregati                    | 23 Ottobre 2023   | | [Testo e dati](), [Soluzione1]()                        |          |
 | Lezione 8  | SQL Avanzato: Viste, Trigger e Procedure                    | 25 Ottobre 2023   | [Viste, Trigger, Procedure]()
 | Lezione 9  | Esercitazione  Trigger e Procedure                    | 30 Ottobre 2023   | | [Testo e dati](), [Soluzioni]()                       |          |
 | Lezione 10  | Esercitazione  Complessiva SQL - 1| 06 Novembre 2023   | | [Testo](), [Dati](), [Soluzione]()                       |          |
