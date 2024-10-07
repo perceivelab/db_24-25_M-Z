@@ -13,6 +13,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 
 | Lezione 3  | Esercitazione Algebra relazionale                      | 07 Ottobre 2023   |    |      [Esercizio 1]([https://tinyurl.com/lesson3es1db3](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/EdUxrIX2dBxFoSfBs5vBqQYBQNClo3EhIwGd8WtFzYItYA?e=rEjLZ2))\br[Esercizio 2]([https://tinyurl.com/lesson3es2db3](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/Edqs5wq_1KBHujvbGNABg9QBbqLikKxPKZWCMqMPlV4b9w?e=qldg1e))  |
 
+<--
 | Lezione 4  | SQL: Concetti di base                    | 11 Ottobre 2023   | [Concetti base]() [MySQL]()                       |             |
 | Lezione 5  | Esercitazione MySQL                    | 16 Ottobre 2023   | [MySQL]()                        |   [)          |
 | Lezione 6  | SQL: Operatori aggregati                   | 18 Ottobre 2023   | [Operatori aggregati]()                        |             |
