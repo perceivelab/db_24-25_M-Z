@@ -11,7 +11,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 1  | Modello relazionale                                             | 02 Ottobre 2024 | [Modello Relazionale](https://tinyurl.com/lesson1db3)        |             |
 | Lezione 2  | Algebra relazionale                                             | 03 Ottobre 2024 | [Algebra Relazionale](https://tinyurl.com/lesson2db3)        | [How To Use Relax]([https://tinyurl.com/howrelaxdb3](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/EcA6QBVWsJ5IiXBCNrSPj3YB3oEfRjSPQJKNtYAzYAGvWw?e=NgyVxX))   |
 
-| Lezione 3  | Esercitazione Algebra relazionale                      | 07 Ottobre 2023   |    |      [Esercizio 1]([https://tinyurl.com/lesson3es1db3](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/EdUxrIX2dBxFoSfBs5vBqQYBQNClo3EhIwGd8WtFzYItYA?e=rEjLZ2)) [Esercizio 2]([https://tinyurl.com/lesson3es2db3](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/Edqs5wq_1KBHujvbGNABg9QBbqLikKxPKZWCMqMPlV4b9w?e=qldg1e))  |
+| Lezione 3  | Esercitazione Algebra relazionale                      | 07 Ottobre 2023   |    |      [Esercizio 1](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/EdUxrIX2dBxFoSfBs5vBqQYBQNClo3EhIwGd8WtFzYItYA?e=rEjLZ2) [Esercizio 2](https://studentiunict-my.sharepoint.com/:b:/g/personal/f_proiettosalanitri_unict_it/Edqs5wq_1KBHujvbGNABg9QBbqLikKxPKZWCMqMPlV4b9w?e=qldg1e)  |
 
 
 <!--- | Lezione 4  | SQL: Concetti di base                    | 11 Ottobre 2023   | [Concetti base]() [MySQL]()                       |             |
