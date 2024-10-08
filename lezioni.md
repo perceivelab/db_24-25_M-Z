@@ -13,11 +13,12 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 3  | Esercitazione Algebra relazionale                               | 07 Ottobre 2024 |    |      [Esercizio 1](https://tinyurl.com/lesson3db-es1), [Soluzione 1](https://tinyurl.com/lesson3db-es1-soluzione)  |
 |            |                                                                 | 07 Ottobre 2024 |    |      [Esercizio 2](https://tinyurl.com/lesson3db-es2), [Soluzione 2](https://tinyurl.com/lesson3db-es2-soluzione)  |
 | Lezione 4  | SQL: Concetti di base                                           | 09 Ottobre 2024 | [Concetti base](https://tinyurl.com/lesson4db3), [MySQL](https://tinyurl.com/lesson4db3-mysql)             |             |
+| Lezione 5  | Esercitazione MySQL                                             | 14 Ottobre 2024  | [MySQL](https://tinyurl.com/lesson4db3-mysql)  |   [Esercizio]()          |
 
 
 <!---
-| Lezione 5  | Esercitazione MySQL                    | 16 Ottobre 2023   | [MySQL]()                        |   [)          |
-| Lezione 6  | SQL: Operatori aggregati                   | 18 Ottobre 2023   | [Operatori aggregati]()                        |             |
+| Lezione 5  | Esercitazione MySQL                                             | 17 Ottobre 2024  | [MySQL]()                        |   [)          |
+| Lezione 6  | SQL: Operatori aggregati                                        | 18 Ottobre 2023   | [Operatori aggregati]()                        |             |
 | Lezione 7  | Esercitazione operatori aggregati                    | 23 Ottobre 2023   | | [Testo e dati](), [Soluzione1]()                        |          |
 | Lezione 8  | SQL Avanzato: Viste, Trigger e Procedure                    | 25 Ottobre 2023   | [Viste, Trigger, Procedure]()
 | Lezione 9  | Esercitazione  Trigger e Procedure                    | 30 Ottobre 2023   | | [Testo e dati](), [Soluzioni]()                       |          |
