@@ -12,7 +12,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 2  | Algebra relazionale                                             | 03 Ottobre 2024 | [Algebra Relazionale](https://tinyurl.com/lesson2db3)        | [How To Use Relax](https://tinyurl.com/howtouserelax)    |
 | Lezione 3  | Esercitazione Algebra relazionale                               | 07 Ottobre 2024 |    |      [Esercizio 1](https://tinyurl.com/lesson3db-es1), [Soluzione 1](https://tinyurl.com/lesson3db-es1-soluzione)  |
 |            |                                                                 | 07 Ottobre 2024 |    |      [Esercizio 2](https://tinyurl.com/lesson3db-es2), [Soluzione 2](https://tinyurl.com/lesson3db-es2-soluzione)  |
-| Lezione 4  | SQL: Concetti di base                                           | 09 Ottobre 2024 | [Concetti base](https://tinyurl.com/lesson4db3) [MySQL](https://tinyurl.com/lesson4db3-mysql)             |             |
+| Lezione 4  | SQL: Concetti di base                                           | 09 Ottobre 2024 | [Concetti base](https://tinyurl.com/lesson4db3), [MySQL](https://tinyurl.com/lesson4db3-mysql)             |             |
 
 
 <!---
