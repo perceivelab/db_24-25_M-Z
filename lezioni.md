@@ -7,11 +7,11 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 
 | Lezioni    | Argomento                                                       | Data            | Slides                         | Codice/Altro|
 |------------|-----------------------------------------------------------------|-----------------|------------------------------- |-------------|
-| Introduzione  | Introduzione Corso                                           | 02 Ottobre 2024 | [Introduzione](https://tinyurl.com/introdb24)               |             |
+| Introduzione  | Introduzione Corso                                           | 02 Ottobre 2024 | [Introduzione](https://tinyurl.com/introdb24)                |             |
 | Lezione 1  | Modello relazionale                                             | 02 Ottobre 2024 | [Modello Relazionale](https://tinyurl.com/lesson1db3)        |             |
 | Lezione 2  | Algebra relazionale                                             | 03 Ottobre 2024 | [Algebra Relazionale](https://tinyurl.com/lesson2db3)        | [How To Use Relax](https://tinyurl.com/howtouserelax)   |
-| Lezione 3  | Esercitazione Algebra relazionale                               | 07 Ottobre 2024 |    |      [Esercizio 1](https://tinyurl.com/lesson3db-es1) [Esercizio 2](https://tinyurl.com/lesson3db-es2)  |
-| Lezione 3  |                                                                 | 07 Ottobre 2024 |    |      [Esercizio 2](https://tinyurl.com/lesson3db-es2) [Esercizio 2](https://tinyurl.com/lesson3db-es2)  |
+| Lezione 3  | Esercitazione Algebra relazionale                               | 07 Ottobre 2024 |    |      [Esercizio 1](https://tinyurl.com/lesson3db-es1) [Soluzione 1](https://tinyurl.com/lesson3db-es1-soluzione)  |
+|            |                                                                 | 07 Ottobre 2024 |    |      [Esercizio 2](https://tinyurl.com/lesson3db-es2) [Soluzione 2](https://tinyurl.com/lesson3db-es2-soluzione)  |
 
 
 <!--- | Lezione 4  | SQL: Concetti di base                    | 11 Ottobre 2023   | [Concetti base]() [MySQL]()                       |             |
