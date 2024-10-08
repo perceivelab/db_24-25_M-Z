@@ -5,8 +5,8 @@ layout: page
 # LEZIONI
 Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del corso di Database 2024.
 
-| Lezioni    | Argomento                                                       | Data             | Slides                         | Codice/Altro|
-|------------|-----------------------------------------------------------------|------------------|------------------------------- |-------------|
+| Lezioni    | Argomento                                                       | Data            | Slides                         | Codice/Altro|
+|------------|-----------------------------------------------------------------|-----------------|------------------------------- |-------------|
 | Introduzione  | Introduzione Corso                                           | 02 Ottobre 2024  | [Introduzione](https://tinyurl.com/introdb24)                |             |
 | Lezione 1  | Modello relazionale                                             | 02 Ottobre 2024  | [Modello Relazionale](https://tinyurl.com/lesson1db3)        |             |
 | Lezione 2  | Algebra relazionale                                             | 03 Ottobre 2024  | [Algebra Relazionale](https://tinyurl.com/lesson2db3)        | [How To Use Relax](https://tinyurl.com/howtouserelax)   |
