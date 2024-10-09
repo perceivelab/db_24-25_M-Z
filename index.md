@@ -8,8 +8,8 @@ layout: default
 
 | **Lezioni**     |
 | :----------:    |
-| Lunedì 14-17  - D02 | 
-| Mercoledì 12-14 - V4  | 
+| Lunedì 14-17 – Aula D02 | 
+| Mercoledì 12-14 – Aula V4  | 
 
 
 
