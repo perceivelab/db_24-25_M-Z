@@ -20,11 +20,11 @@ layout: default
 
 
 # AVVISI
-
-- *[09 Ott 2024]* Si avvisano gli studenti che, a causa dell'elevato numero di partecipanti, le prossime lezioni del lunedì si terranno in aula D02, sita nell'Edificio della Didattica (Edificio 14).  
+- ***[09 Ott 2024]*** La lezione di MERCOLEDÌ 16 OTTOBRE è rimandata a GIOVEDÌ 17 OTTOBRE dalle 14:00 alle 17:00 e si terrà nell'Aula Magna del Polo Tecnologico, in via Santa Sofia, 102.
+- ***[09 Ott 2024]*** Si avvisano gli studenti che, a causa dell'elevato numero di partecipanti al corso, le prossime lezioni del lunedì si terranno in aula D02, sita nell'Edificio della Didattica (Edificio 14).  
 - *[02 Ott 2024]* Si avvisano gli studenti che la seconda lezione si terrà il 3 Ottobre 2024 in Aula A (Aula Magna) del Polo Tecnologico, via Santa Sofia, 102.
 - *[02 Ott 2024]* Inizio ufficiale lezioni.
-- *[25 Sett 2024]* Le lezioni del corso di DATABASE and WEB PROGRRAMMING mod. DATABASE (canale M-Z) inizieranno regolarmente MERCOLEDÌ 2 OTTOBRE secondo il calendario ufficiale. La seconda lezione, si terrà GIOVEDÌ 3 OTTOBRE dalle 15:00 alle 18:00 in Aula Magna del Polo Tecnologico, via Santa Sofia, 102.
+- *[25 Sett 2024]* Le lezioni del corso di DATABASE and WEB PROGRRAMMING mod. DATABASE (canale M-Z) inizieranno regolarmente MERCOLEDÌ 2 OTTOBRE secondo il calendario ufficiale. La seconda lezione si terrà GIOVEDÌ 3 OTTOBRE dalle 15:00 alle 18:00 in Aula Magna del Polo Tecnologico, via Santa Sofia, 102.
 
 <!--
 - *[16 Giu 2024]* L'esame di giorno 21/06/2024 si terrà presso l'aula magna del polo tecnologico alle ore 10.00. 
