@@ -15,7 +15,7 @@ layout: default
 
 | **Ricevimento**: [Concordare via mail](#staff)      |
 | :----------:   |
-| Prof. Federica Proietto Salanitri - Mercoledì 17-18  | 
+| Prof.ssa Federica Proietto Salanitri - Mercoledì 17-18  | 
 
 
 
