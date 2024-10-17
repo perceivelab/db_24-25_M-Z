@@ -19,7 +19,7 @@ L'accesso alla prova in itinere è subordinato alla consegna di:
 |#      | Homework                  | Data Assegnazione          | Data Consegna    |
 |------ | ------------------------- | -----------------------    | ---------------- |
 | 1     | [Algebra Relazionale]()   | 7 Ottobre 2024 | 14 Ottobre 2024 |
-| 2     | [MySQL Base]()            |      |     |
+| 2     | [MySQL Base]()            | 17 Ottobre 2024 | 21 Ottobre 2024 |
 | 3     | [SQL Operatori Aggregati]() |    |    |
 | 4     | [Procedure e Trigger]()   |      |   |
 
