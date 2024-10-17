@@ -14,7 +14,9 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 4  | SQL: Concetti di base                                           | 09 Ottobre 2024 | [Concetti base](https://tinyurl.com/lesson4db3), [MySQL](https://tinyurl.com/lesson4db3-mysql)             |            |
 | Lezione 5  | Esercitazione MySQL                                             | 14 Ottobre 2024  | [MySQL](https://tinyurl.com/lesson4db3-mysql)               | [Esercizio](https://tinyurl.com/lesson5db3-es1)           |
 | Lezione 6  | SQL: Operatori aggregati + Query Nidificate                     | 17 Ottobre 2024  | [Operatori aggregati](https://tinyurl.com/lez6aggrdb3) <br> [Query Nidificate](https://tinyurl.com/l6niddb3)                        |             |
-
+| Lezione 7  | Esercitazione op. aggregati + Viste, Trigger e Procedure        | 21 Ottobre 2024  | |           |
+| Lezione 8  | Esercitazione  Trigger e Procedure                              | 23 Ottobre 2024  |  |      |
+| Lezione 9  |  Esercitazione  Complessiva SQL                                 | 28 Ottobre 2024  |   |                    |          |
 
 <!---
 | Lezione 6  | SQL: Operatori aggregati                                        | 17 Ottobre 2024  | [Operatori aggregati]()                        |             |
