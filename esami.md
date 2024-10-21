@@ -20,14 +20,14 @@ L'accesso alla prova in itinere è subordinato alla consegna di:
 |------ | ------------------------- | -----------------------    | ---------------- |
 | 1     | [Algebra Relazionale]()   | 7 Ottobre 2024 | 14 Ottobre 2024 |
 | 2     | [MySQL Base]()            | 17 Ottobre 2024 | 21 Ottobre 2024 |
-| 3     | [SQL Operatori Aggregati]() |    |    |
-| 4     | [Procedure e Trigger]()   |      |   |
+| 3     | [SQL Operatori Aggregati]() | 21 Ottobre 2024 | 28 Ottobre 2024 |
+| 4     | [Procedure e Trigger]()   | 23 Ottobre 2024 | 31 Ottobre 2024  |
 
   - almeno 3 delle 4 esercitazioni che verranno svolte in aula. La consegna delle esercitazioni deve avvenire alla fine della lezione stessa.
     
 |#      | Esercitazioni                             | Data Esercitazione | 
 |------ | ----------------------------------------- | -----------------  | 
-| 1     | Esercitazione  Complessiva SQL            |      | 
+| 1     | Esercitazione  Complessiva SQL            | 30 Ottobre 2024    | 
 | 2     | Esercitazione  Complessiva Progettazione  |      | 
 | 3     | Esercitazione complessiva SQL + progettazione |      |
 | 4     | Esercitazione complessiva SQL + progettazione |      |
