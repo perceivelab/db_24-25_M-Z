@@ -19,7 +19,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 8  | Esercitazione  Trigger e Procedure                              | 23 Ottobre 2024  |   |      |
 | Lezione 9  |  Esercitazione  Complessiva SQL                                 | 28 Ottobre 2024  |   |                    |          |
 | Lezione 10 |  Esercitazione  Complessiva SQL                                 | 30 Ottobre 2024  |   |                    |          |
-
+|            | ***Progettazione***                                             |                 |                                                              |             |
 <!---
 | Lezione 6  | SQL: Operatori aggregati                                        | 17 Ottobre 2024  | [Operatori aggregati]()                        |             |
 | Lezione 7  | Esercitazione operatori aggregati                               | 21 Ottobre 2024  |   | [Testo e dati](), [Soluzione1]()                        |          |
