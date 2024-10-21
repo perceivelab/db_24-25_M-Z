@@ -8,6 +8,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezioni    | Argomento                                                       | Data            | Slides                         | Codice/Altro|
 |------------|-----------------------------------------------------------------|-----------------|------------------------------- |-------------|
 | Introduzione  | Introduzione Corso                                           | 02 Ottobre 2024 | [Introduzione](https://tinyurl.com/introdb24)                |             |
+|            | ***SQL***                                                       |                 |                                                              |             |
 | Lezione 1  | Modello relazionale                                             | 02 Ottobre 2024 | [Modello Relazionale](https://tinyurl.com/lesson1db3)        |             |
 | Lezione 2  | Algebra relazionale                                             | 03 Ottobre 2024 | [Algebra Relazionale](https://tinyurl.com/lesson2db3)        | [How To Use Relax](https://tinyurl.com/howtouserelax)    |
 | Lezione 3  | Esercitazione Algebra relazionale                               | 07 Ottobre 2024 |    |      [Esercizio1](https://tinyurl.com/lesson3db-es1), [Soluzione1](https://tinyurl.com/lesson3db-es1-soluzione) <br> [Esercizio2](https://tinyurl.com/lesson3db-es2), [Soluzione2](https://tinyurl.com/lesson3db-es2-soluzione)  |
