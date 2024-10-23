@@ -28,7 +28,7 @@ L'accesso alla prova in itinere è subordinato alla consegna di:
 |#      | Esercitazioni                             | Data Esercitazione | 
 |------ | ----------------------------------------- | -----------------  | 
 | 1     | Esercitazione  Complessiva SQL            | 30 Ottobre 2024    | 
-| 2     | Esercitazione  Complessiva Progettazione  |      | 
+| 2     | Esercitazione  Complessiva Progettazione  | 20 Novembre 2024   | 
 | 3     | Esercitazione complessiva SQL + progettazione |      |
 | 4     | Esercitazione complessiva SQL + progettazione |      |
   
