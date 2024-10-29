@@ -22,7 +22,7 @@ layout: default
 # AVVISI
 - ***[23 Ott 2024]*** Il giorno **30 ottobre 2024** si svolgerà la prima delle 4 esercitazioni *obbligatorie*, che dovranno essere consegnate al termine della lezione. Si ricorda che per accedere alla prova in itinere è necessario consegnare almeno 3 delle 4 esercitazioni stabilite.
 - ***[23 Ott 2024]*** Assegnazione Homework 4. Testo disponibile sull'Attività di MS Teams. Consegna 31/10/2024 ore 23:59.
-- ***[21 Ott 2024]*** Assegnazione Homework 3. Testo disponibile sull'Attività di MS Teams. Consegna 28/10/2024 ore 23:59.
+- *[21 Ott 2024]* Assegnazione Homework 3. Testo disponibile sull'Attività di MS Teams. Consegna 28/10/2024 ore 23:59.
 - *[09 Ott 2024]* La lezione di MERCOLEDÌ 16 OTTOBRE è rimandata a GIOVEDÌ 17 OTTOBRE dalle 14:00 alle 17:00 e si terrà nell'Aula Magna del Polo Tecnologico, in via Santa Sofia, 102.
 - *[09 Ott 2024]* Si avvisano gli studenti che, a causa dell'elevato numero di partecipanti al corso, le prossime lezioni del lunedì si terranno in aula D02, sita nell'Edificio della Didattica (Edificio 14).  
 - *[02 Ott 2024]* Si avvisano gli studenti che la seconda lezione si terrà il 3 Ottobre 2024 in Aula A (Aula Magna) del Polo Tecnologico, via Santa Sofia, 102.
