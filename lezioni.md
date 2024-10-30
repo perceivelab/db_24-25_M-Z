@@ -18,11 +18,10 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 7  | Esercitazione op. aggregati + Viste, Trigger e Procedure        | 21 Ottobre 2024  | [SQL: Viste, Stored Procedure, Trigger](https://tinyurl.com/lesson7viewproctrig) | [Esercizio1](https://tinyurl.com/lesson7es1), [Dati1](https://tinyurl.com/lesson7dati1) <br> [Esercizio2](https://tinyurl.com/lesson7es2), [Dati2](https://tinyurl.com/lesson7dati2)|
 | Lezione 8  | Esercitazione  Trigger e Procedure                              | 23 Ottobre 2024  |   | [Esercizio](https://tinyurl.com/lesson8es), [Soluzione](https://tinyurl.com/lesson8essol) <br> [Dati](https://tinyurl.com/lesson8dati), [Tabelle](https://tinyurl.com/lesson8tables)     |
 | Lezione 9  |  Esercitazione  Complessiva SQL                                 | 28 Ottobre 2024  |   | [Esercizio](https://tinyurl.com/lesson9es), [Soluzione](https://tinyurl.com/lesson9esol) <br> [Dati](https://tinyurl.com/lesson9data), [Tabelle](https://tinyurl.com/lesson9tables)                 |          |
-| Lezione 10 |  Esercitazione  Complessiva SQL                                 | 30 Ottobre 2024  |   |                    |          |
 |            | ***Progettazione***                                             |                  |   |                    |          |
+| Lezione 10 |  Esercitazione  Complessiva SQL                                 | 30 Ottobre 2024  |   | [Esercizio](https://tinyurl.com/lesson10es), [Dati](https://tinyurl.com/lesson10data)                    |          |
 
 <!---
-| Lezione 10 |  Esercitazione  Complessiva SQL                                 | 30 Ottobre 2024  |   | [Esercizio](https://tinyurl.com/lesson10es), [Dati](https://tinyurl.com/lesson10data)                    |          |
 | Lezione 6  | SQL: Operatori aggregati                                        | 17 Ottobre 2024  | [Operatori aggregati]()                        |             |
 | Lezione 7  | Esercitazione operatori aggregati                               | 21 Ottobre 2024  |   | [Testo e dati](), [Soluzione1]()                        |          |
 | Lezione 8  | SQL Avanzato: Viste, Trigger e Procedure                        | 23 Ottobre 2024  | [Viste, Trigger, Procedure]()
