@@ -21,7 +21,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 10 |  Esercitazione  Complessiva SQL                                 | 30 Ottobre 2024  |   | [Esercizio](https://tinyurl.com/lesson10es), [Dati](https://tinyurl.com/lesson10data)                    |          |
 |            | ***Progettazione***                                             |                  |   |                    |          |
 | Lezione 11  | Progettazione Concettuale         | 4 Novembre 2024   | [Progettazione Concettuale](https://tinyurl.com/lesson13pprogconc) |  |
-| Lezione 12  | Esercizi progettazione concettuale| 6 Novembre 2024   | | |
+| Lezione 12  | Esercizi progettazione concettuale| 6 Novembre 2024   | [Esempi prog. Concettuale](https://tinyurl.com/lesson14esprogconc)| |
 | Lezione 13 | Progettazione logica | 11 Novembre 2024 | | | 
 | Lezione 14 | Esercitazione progettazione logica | 13 Novembre 2024 | | | 
 
