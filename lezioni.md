@@ -22,15 +22,11 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 |            | ***Progettazione***                                             |                  |   |                    |          |
 | Lezione 11  | Progettazione Concettuale         | 4 Novembre 2024   | [Progettazione Concettuale](https://tinyurl.com/lesson13pprogconc) |  |
 | Lezione 12  | Esercizi progettazione concettuale| 6 Novembre 2024   | |[Esempi prog. Concettuale](https://tinyurl.com/lesson12esprogconc) [Soluzione](https://tinyurl.com/lesson12solaula) |
-| Lezione 13 | Progettazione logica | 11 Novembre 2024 | | | 
-| Lezione 14 | Esercitazione progettazione logica | 13 Novembre 2024 | | | 
-
-<!---
-
-| Lezione 17 | Esercitazione progettazione logica | 29 Novembre 2023 | | [Testo](https://drive.google.com/file/d/1J9mexl4fCIVR93trQCa3qXvpTJ8wZqru/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1Hzn0eQrJ4ur7ijeI7c1QDZ8xG0SrZ7yq/view?usp=sharing) | 
-| Lezione 18 | Simulazione prova di progettazione | 04 Dicembre 2023 | | [Testo](https://drive.google.com/file/d/1iI1n25r_GHPQzqKUQZtNYZrnV0JdoB15/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1K2atC5VFIMhi1tcf00qUGrVIDGg01ota/view?usp=sharing) | 
-| Lezione 19 | Esecitazione progettazione logica  | 06 Dicembre 2023 | | [Testo](https://drive.google.com/file/d/1FxgOPBFh3eEDcDCXQEH9osvpgX-Ur4yd/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1ZusA9Ez7uIxkHEeSF-W_6OApwEnNth1c/view?usp=sharing) | 
-| Lezione 20 | Esecitazione finale SQL            | 13 Dicembre 2023 | | [Testo](https://drive.google.com/file/d/1lpLrrkaoQsGvxYY3WqWPZBjMwrovMOhX/view?usp=sharing), [Dati](https://drive.google.com/file/d/1dC_TwLnKpnBetiTC6StZD031chHjwUH1/view?usp=sharing), [Soluzione](https://drive.google.com/file/d/1mXuyo69WavNkJN2LiIrwZ3RuzKrXX-zY/view?usp=sharing) | -->
-
-[404]: /web-programming-course/fallback
-
+| Lezione 13 | Progettazione logica | ~~11~~ 13 Novembre 2024 | | | 
+| Lezione 14 | Esercitazione progettazione logica | ~~13~~ 14 Novembre 2024 | | |
+| Lezione 15 | Esercitazione complessiva progettazione | 18 Novembre 2024 | | |
+| Lezione 16 | Esercitazione complessiva progettazione | 20 Novembre 2024 | | |
+| Lezione 17 | Esercitazione complessiva progettazione | 25 Novembre 2024 | | |
+| Lezione 18 | Esercitazione complessiva progettazione | 27 Novembre 2024 | | |
+| Lezione 19 | Esercitazione complessiva progettazione | 02 Dicembre 2024 | | |
+| Lezione 20 | Prova in itinere | 19 Dicembre 2024 | | |
