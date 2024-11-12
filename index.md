@@ -86,8 +86,8 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 10    | Esercitazione complessiva SQL   | 30 Ottobre 2024   |
 | 11    | Progettazione concettuale       | 04 Novembre 2024  |
 | 12    | Esempi progettazione concettuale| 06 Novembre 2024  |
-| 13    | Progettazione logica            | 11 Novembre 2024  |
-| 14    | Esercitazione progettazione logica | 13 Novembre 2024  |
+| 13    | Progettazione logica            | ~~11~~ 13 Novembre 2024  |
+| 14    | Esercitazione progettazione logica | ~~13~~ 14 Novembre 2024  |
 | 15    | Esercitazione complessiva progettazione | 18 Novembre 2024  |
 | 16    | Esercitazione complessiva progettazione | 20 Novembre 2024  |
 | 17    | Esercitazione complessiva progettazione | 25 Novembre 2024  |
