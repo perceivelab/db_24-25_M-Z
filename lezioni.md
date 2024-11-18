@@ -24,7 +24,7 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 12  | Esercizi progettazione concettuale| 6 Novembre 2024   | |[Esempi prog. Concettuale](https://tinyurl.com/lesson12esprogconc) [Soluzione](https://tinyurl.com/lesson12solaula) |
 | Lezione 13 | Progettazione logica | ~~11~~ 13 Novembre 2024 | [Progettazione Logica](https://tinyurl.com/lesson13proglog) | | 
 | Lezione 14 | Esercitazione progettazione logica | ~~13~~ 14 Novembre 2024 | | [Esercizio](https://tinyurl.com/lesson14esercproglogica) |
-| Lezione 15 | Esercitazione complessiva progettazione | 18 Novembre 2024 | | |
+| Lezione 15 | Esercitazione complessiva progettazione | 18 Novembre 2024 | | [Esercizio](https://tinyurl.com/lesson15eserc) |
 | Lezione 16 | Esercitazione complessiva progettazione | 20 Novembre 2024 | | |
 | Lezione 17 | Esercitazione complessiva progettazione | 25 Novembre 2024 | | |
 | Lezione 18 | Esercitazione complessiva progettazione | 27 Novembre 2024 | | |
