@@ -94,8 +94,10 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 14    | Esercitazione progettazione logica | ~~13~~ 14 Novembre 2024  |
 | 15    | Esercitazione complessiva progettazione | 18 Novembre 2024  |
 | 16    | Esercitazione complessiva progettazione | 20 Novembre 2024  |
+|       | Esercitazione Aggiuntiva                | 21 Novembre 2024  |
 | 17    | Esercitazione complessiva progettazione | 25 Novembre 2024  |
 | 18    | Esercitazione complessiva SQL + progettazione | 27 Novembre 2024   |
+|       | Esercitazione Aggiuntiva                | 28 Novembre 2024  |
 | 19    | Esercitazione complessiva SQL + progettazione | 02 Dicembre 2024  |
 | 20    | Prova in itinere    | 19 Dicembre 2024  | 
 
