@@ -27,8 +27,8 @@ Questa pagina contiene le slide, note e gli esempi di codice delle lezioni del c
 | Lezione 15 | Esercitazione complessiva progettazione | 18 Novembre 2024 | | [Esercizio](https://tinyurl.com/lesson15eserc) [Soluzione](https://tinyurl.com/lesson15sol) |
 | Lezione 16 | Esercitazione complessiva progettazione | 20 Novembre 2024 | | [Esercizio](https://tinyurl.com/lesson16ese)|
 |            | Esercitazione                           | 21 Novembre 2024 | | [Soluzione](https://tinyurl.com/lesson16sol)|
-| Lezione 17 | Esercitazione complessiva progettazione | 25 Novembre 2024 | | |
-| Lezione 18 | Esercitazione complessiva progettazione + SQL | 27 Novembre 2024 | | |
+| Lezione 17 | Esercitazione complessiva progettazione | 25 Novembre 2024 | | [Esercitazione](https://tinyurl.com/lesson17es) [Dati](https://tinyurl.com/lesson17dati)<br>[Sol Prog.](https://tinyurl.com/lesson17solprog)[Sol.SQL](https://tinyurl.com/lesson17sqlsol)|
+| Lezione 18 | Esercitazione complessiva progettazione + SQL | 27 Novembre 2024 | |[Eser. Prog.](https://tinyurl.com/lesson18prog) [Eserc.SQL](https://tinyurl.com/lesson18sql) [dati](https://tinyurl.com/lesson18dati) |
 |            | Esercitazione                                 | 28 Novembre 2024 | | |
 | Lezione 19 | Esercitazione complessiva progettazione + SQL| 02 Dicembre 2024 | | |
 | Lezione 20 | Prova in itinere | 19 Dicembre 2024 | | |
