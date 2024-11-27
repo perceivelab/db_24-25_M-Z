@@ -20,7 +20,10 @@ layout: default
 
 
 # AVVISI
-- ***[22 Nov 2024]*** Lezione aggiuntiva **giovedì 28 Novembre 2024** dalle **14:00 alle 17:00** presso l'**Alula A - Polo Tecnologico**, via Santa Sofia, 102. 
+- ***[27 Nov 2024]*** Si cominunica che l'esercitazione del 2 Dicembre (da consegnare) verrà svolta sotto forma di **Simulazione di Prova in Itinere**: non sarà permesso collaborare con i colleghi nè chiedere il supporto dei docenti. Le uniche domande ammesse saranno sulla comprensione del testo.
+La stessa esercitazione verrà poi corretta nell'**esercitazione aggiuntiva** che si svolgerà **mercoledì 4 Dicembre** dalle **12:00 alle 14:00** in aula **V4**, come da orario del corso. La lezione del 4 Dicembre sarà anceh l'ultima lezione del corso. 
+- ***[27 Nov 2024]*** Si comunica che all'inizio della lezione di giovedì 28/11/2024 avverrà la presentazione delle attività del Pattern Recognition and Computer Vision Lab (PeRCeiVeLab).
+- *[22 Nov 2024]* Lezione aggiuntiva **giovedì 28 Novembre 2024** dalle **14:00 alle 17:00** presso l'**Alula A - Polo Tecnologico**, via Santa Sofia, 102. 
 - *[20 Nov 2024]* Lezione aggiuntiva **giovedì 21 Novembre 2024** dalle **14:00 alle 17:00** presso l'**Alula A - Polo Tecnologico**, via Santa Sofia, 102. 
 - *[12 Nov 2024]* La lezione di ieri, verrà recuperata **giovedì 14 Novembre 2024** dalle **14:00 alle 17:00** presso l'**Alula A - Polo Tecnologico**, via Santa Sofia, 102. 
 - *[11 Nov 2024]* Lezione annullata causa **allerta meteo**.
@@ -98,8 +101,9 @@ La roadmap e' provvisoria e puo' subire variazioni.
 | 17    | Esercitazione complessiva progettazione | 25 Novembre 2024  |
 | 18    | Esercitazione complessiva SQL + progettazione | 27 Novembre 2024   |
 |       | Esercitazione Aggiuntiva                | 28 Novembre 2024  |
-| 19    | Esercitazione complessiva SQL + progettazione | 02 Dicembre 2024  |
-| 20    | Prova in itinere    | 19 Dicembre 2024  | 
+| 19    | Simulazione Prova in itinere           | 02 Dicembre 2024  |
+|       | Correzione simulazione Prova in itinere | 04 Dicembre 2024  |
+| 20    | Prova in itinere                        | 19 Dicembre 2024  | 
 
 
 
