@@ -20,9 +20,10 @@ layout: default
 
 
 # AVVISI
+- ***[29 Nov 2024]*** Sul canale Teams sono stati caricati dei testi di vecchi esami. 
 - ***[27 Nov 2024]*** Si cominunica che l'esercitazione del 2 Dicembre (da consegnare) verrà svolta sotto forma di **Simulazione di Prova in Itinere**: non sarà permesso collaborare con i colleghi nè chiedere il supporto dei docenti. Le uniche domande ammesse saranno sulla comprensione del testo.
 La stessa esercitazione verrà poi corretta nell'**esercitazione aggiuntiva** che si svolgerà **mercoledì 4 Dicembre** dalle **12:00 alle 14:00** in aula **V4**, come da orario del corso. La lezione del 4 Dicembre sarà anceh l'ultima lezione del corso. 
-- ***[27 Nov 2024]*** Si comunica che all'inizio della lezione di giovedì 28/11/2024 avverrà la presentazione delle attività del Pattern Recognition and Computer Vision Lab (PeRCeiVeLab).
+- *[27 Nov 2024]* Si comunica che all'inizio della lezione di giovedì 28/11/2024 avverrà la presentazione delle attività del Pattern Recognition and Computer Vision Lab (PeRCeiVeLab).
 - *[22 Nov 2024]* Lezione aggiuntiva **giovedì 28 Novembre 2024** dalle **14:00 alle 17:00** presso l'**Alula A - Polo Tecnologico**, via Santa Sofia, 102. 
 - *[20 Nov 2024]* Lezione aggiuntiva **giovedì 21 Novembre 2024** dalle **14:00 alle 17:00** presso l'**Alula A - Polo Tecnologico**, via Santa Sofia, 102. 
 - *[12 Nov 2024]* La lezione di ieri, verrà recuperata **giovedì 14 Novembre 2024** dalle **14:00 alle 17:00** presso l'**Alula A - Polo Tecnologico**, via Santa Sofia, 102. 
